@@ -1,7 +1,7 @@
 [![MasterHead](https://www.canva.com/design/DAFJx7om6C4/qYdtEC2FkL8ULb4guPvJkA/view?utm_content=DAFJx7om6C4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)]
 <h1 align="center">Hi 👋, I'm Sandeep Tomar</h1>
 <h3 align="center">Founder, Product Manager and Aspiring FullStack Developer</h3>
-<img img align="right" alt="Coding" width="400" src="https://i.gifer.com/H1EC.gif"/>
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/9f/5e/6c/9f5e6c028fa50022452ac45e77dda309.gif">
 
 <p align="left"> <a href="https://twitter.com/tomarsandeep16" target="blank"><img src="https://img.shields.io/twitter/follow/tomarsandeep16?logo=twitter&style=for-the-badge" alt="tomarsandeep16" /></a> </p>
 
