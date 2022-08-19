@@ -1,4 +1,4 @@
-[![MasterHead](https://www.canva.com/design/DAFJx7om6C4/qYdtEC2FkL8ULb4guPvJkA/view?utm_content=DAFJx7om6C4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)]
+![logo](https://github.com/SandeepTomar16/SandeepTomar16/blob/main/Banner-GitHub.jpg)
 <h1 align="center">Hi 👋, I'm Sandeep Tomar</h1>
 <h3 align="center">Founder, Product Manager and Aspiring FullStack Developer</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/9f/5e/6c/9f5e6c028fa50022452ac45e77dda309.gif">
